@@ -1,6 +1,7 @@
 {
-  "name": "nhsuk-react-components",
+  "name": "@futurenhs/nhsuk-react-components",
   "version": "1.2.6",
+  "repository": "git://github.com/futurenhs/nhsuk-react-components.git",
   "author": {
     "email": "thomas.judd-cooper1@nhs.net",
     "name": "Thomas Judd-Cooper",
